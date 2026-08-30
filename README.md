@@ -1,10 +1,12 @@
-# 孙学 · Sunxue
+# 孙学 · 颖学 · Sunxue & Yingxue
 
 <p align="center">
   <img src="assets/promo-2.jpg" width="640" alt="《孙学》封面梗图：孙宇晨《我的女友景甜》研究">
 </p>
 
-> 情绪是证据的利息。你只能出示本金——动作、数字、物件、空间——利息由读者自己结算。
+> 孙学：情绪是证据的利息。你只能出示本金——动作、数字、物件、空间——利息由读者自己结算。
+>
+> 颖学：事实是凉的，但摆放事实的手是热的。想让人心疼你，用孙学；想让人羡慕你爱过，用颖学。
 
 **v1.2 被割版**：割了别人十年的"孙割"，这次自己被割——这个叙事倒转是孙学爆红的真正引擎。
 胜者炫技惹人厌，败者白描引人心疼：带着败局来写（失恋/被骗/失败）时，此法威力最大。
@@ -62,12 +64,13 @@ ln -s $(pwd)/sunxue/sunxue ~/.zcode/skills/sunxue
 sunxue/
 ├── README.md
 ├── LICENSE                  # MIT（技能文本）
-└── sunxue/                  # ← 安装这个目录
-    ├── SKILL.md             # 技能主体：心法 + 十条技法 + 流程 + 红线
-    ├── VERSION              # 1.0.0
-    └── references/
-        ├── style-anatomy.md # 原文逐条技法解剖（引文例证）
-        └── background.md    # 孙宇晨其人、事件脉络、孙学一词来历
+├── sunxue/                  # 孙学 Skill：零度白描（被割版/败者修辞学）
+│   ├── SKILL.md             # 心法 + 十条技法 + 三层模型 + 流程红线
+│   └── references/          # style-anatomy / background / x-field-notes
+├── yingxue/                 # 颖学 Skill：滚烫白描（镜像学科）
+│   ├── SKILL.md             # 反向记账 + 钱放大论 + 五条技法 + 孙颖对照表
+│   └── references/corpus.md # 曾颖四篇推文全文语料
+└── assets/                  # 宣传图 + 语料截图
 ```
 
 ## 致谢与声明
